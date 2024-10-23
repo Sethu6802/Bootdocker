@@ -37,3 +37,4 @@ artifacts:
   files:
     - imagedefinitions.json
     - target/bootdocker.jar
+    - 'config/aws/*'
